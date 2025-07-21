@@ -58,3 +58,10 @@ Perfect for educators, researchers, and developers who want to transform **math/
 * Add safety and syntax checks for generated code
 * Improve prompt templates for accuracy
 * Add download/share buttons for rendered videos
+
+
+---
+
+## 🎥 Output Demo
+
+(https://github.com/manasvi-777/prompt2video/blob/main/CircleExplanation.mp4)
